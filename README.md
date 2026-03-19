@@ -10,4 +10,4 @@ This script is used to create or delete users.
   - Linux
 
     ## Usage
-    sudo create_users.sh <user.file> ; sudo delete_users.sh <user.file>
+    sudo create_users.sh <input.file> ; sudo delete_users.sh <input.file>
