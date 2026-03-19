@@ -1,4 +1,4 @@
-#vi delete_users.sh
+vi delete_users.sh
 
 #!/bin/bash
 Script to delete users 
