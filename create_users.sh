@@ -1,4 +1,4 @@
-#vi create_users.sh
+vi create_users.sh
 #!/bin/bash
 #Script to create users
 #takes input file with user names on the command line as the first arguement.
